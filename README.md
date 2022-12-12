@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @segadreamgirl
-- 👀 I’m interested in data science :-)
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in ui/ux design :-)
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web applications!
